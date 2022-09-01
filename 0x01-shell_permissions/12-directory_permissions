@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m my_dir 751 0x01-shell_permission
+mkdir -m my_dir 751 dir_alx
